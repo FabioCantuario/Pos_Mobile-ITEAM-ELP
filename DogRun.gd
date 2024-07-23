@@ -1,4 +1,4 @@
-extends Node
+extends Node2D
 @onready var listaCachorros = [$Cachorro_A,$Cachorro_B,$Cachorro_C]
 @onready var faixaChegada = $Faixa
 @onready var visor = $lblVisor
